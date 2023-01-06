@@ -1,9 +1,10 @@
-*{
+* {
     margin: 0;
     padding: 0;
     font-family: 'Fira Code', monospace;
 }
-.btn-primary{
+
+.btn-primary {
     background-color: orangered;
     font-size: 20px;
     border: none;
@@ -12,43 +13,48 @@
     padding: 5px;
     font-weight: 700;
 }
-.header-section{
+
+.header-section {
     background-image: url("../images/donation13.jpg");
     /* margin: 0 auto; */
     width: 100%;
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
-    
+
 }
-.header-item{
+
+.header-item {
     padding: 15%;
     text-align: center;
     justify-content: center;
-    align-items: center;  
-    color: white;  
+    align-items: center;
+    color: white;
+    
 }
+
 /* end of header item styles */
 
 /* start donate section */
-.donate-section{
+.donate-section {
     text-align: center;
-    margin-top:80px;
+    margin-top: 80px;
     padding: 0 80px;
 }
-.donation-heading{
+
+.donation-heading {
     font-weight: 700;
 }
 
-.donation ul{
-    display: flex; 
-    
+.donation ul {
+    display: flex;
+
 }
 
 /* .donation.donetion-value{
      padding: 5px;
 } */
-ul li{
+ul li {
     list-style: none;
- 
+
 }
